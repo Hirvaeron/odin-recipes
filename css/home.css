@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#FFFF8F;
+    color: #C70039;
+}
+h1{
+    text-align: center;
+    margin:3vh 0;
+}
+a,
+a:visited{
+    text-decoration: none;
+    color: #C70039;
+}
+a:hover{
+    color: #900C3F;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
